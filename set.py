@@ -13,10 +13,10 @@ print(tuple4)
 # to find length of tuple
 print(len(tuple4))
 # type of data
-print(type(tuple4))"""
+print(type(tuple4))
 
 #set
-set={"apple", "banana", True , 0 , False , 1 , "cherry", "apple"}
+set={"apple", "banana", True , 0 , False , 1 , "cherry", "apple"}"""
 print(set)
 # true and 1 considered same value 
 # false and 0 considered same value
