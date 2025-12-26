@@ -8,12 +8,12 @@ tuple2=(1, 2, 3)
 tuple3=tuple1 + tuple2
 print(tuple3)
 #3 allows duplicate values
-tuple4= ("apple", "banana", "cherry", "apple", "cherry")
+tuple4= ("apple", "banana", "cherry", "apple", "cherry")"""
 print(tuple4)
 # to find length of tuple
 print(len(tuple4))
 # type of data
-print(type(tuple4))
+print(type(tuple4))"""
 
 #set
 set={"apple", "banana", True , 0 , False , 1 , "cherry", "apple"}
