@@ -16,7 +16,7 @@ print(len(tuple4))"""
 print(type(tuple4))
 
 #set
-set={"apple", "banana", True , 0 , False , 1 , "cherry", "apple"}"""
+set={"apple", "banana", True , 0 , False , 1 , "cherry", "apple"}
 print(set)
 # true and 1 considered same value 
 # false and 0 considered same value
@@ -36,7 +36,7 @@ print(sset)
 #join multiple sets using union 1st ex.
 set1={"a","b","c"}
 set2={1,2,3}
-set3={"John","Elena"}
+set3={"John","Elena"}"""
 set4={"apple","bananas","cherry"}
 
 fullset = set1.union(set2,set3,set4)
