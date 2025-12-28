@@ -11,10 +11,10 @@ print(tuple3)
 tuple4= ("apple", "banana", "cherry", "apple", "cherry")
 print(tuple4)
 # to find length of tuple
-print(len(tuple4))"""
+print(len(tuple4))
 # type of data
 print(type(tuple4))
-
+"""
 #set
 set={"apple", "banana", True , 0 , False , 1 , "cherry", "apple"}
 print(set)
