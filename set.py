@@ -37,7 +37,7 @@ print(sset)
 set1={"a","b","c"}
 set2={1,2,3}
 set3={"John","Elena"}"""
-set4={"apple","bananas","cherry"}
+set4={"apple","bananas","cherry"}"""
 
 fullset = set1.union(set2,set3,set4)
 print(fullset)
