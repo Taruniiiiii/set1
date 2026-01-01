@@ -1,4 +1,4 @@
-#1
+tt#1
 tuple = ("apple", "banana", "cherry")
 if "apple" in tuple:
   print("Yes, 'apple' is in the fruits tuple")
@@ -39,7 +39,7 @@ set2={1,2,3}
 set3={"John","Elena"}"""
 set4={"apple","bananas","cherry"}"""
 
-fullset = set1.union(set2,set3,set4)
+fullset = set1.union(set2,set3,set4)"""
 print(fullset)
 #or
 fullset=set1|set2|set3|set4
