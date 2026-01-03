@@ -28,8 +28,8 @@ print("banana" in sset)#true
 #add ele
 sset.add("papaya")
 print(sset)
-sset.remove("papaya")
-print(sset)
+sset.remove("papaya")"""
+print"""(sset)
 #can also use "discard" to remove ele
 #can remove random ele using "pop"
 #clear for full delete
@@ -40,7 +40,7 @@ set3={"John","Elena"}"""
 set4={"apple","bananas","cherry"}"""
 
 fullset = set1.union(set2,set3,set4)"""
-print(fullset)"""
+print(fullset)
 #or
-fullset=set1|set2|set3|set4"""
+fullset=set1|set2|set3|set4z
 print(fullset)
