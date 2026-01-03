@@ -29,13 +29,13 @@ print("banana" in sset)#true
 sset.add("papaya")
 print(sset)
 sset.remove("papaya")"""
-print"""(sset)
+print(sset)
 #can also use "discard" to remove ele
 #can remove random ele using "pop"
 #clear for full delete
 #join multiple sets using union 1st ex.
 set1={"a","b","c"}
-set2={1,2,3}
+set2={1,2,3}"""
 set3={"John","Elena"}"""
 set4={"apple","bananas","cherry"}"""
 
